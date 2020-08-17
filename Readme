@@ -1,0 +1,9 @@
+This model predicts the housing prices for sale using Linear Regression Model. The model uses keras to build a linear regression model that predicts the pricing of house based on square footage.
+Libraries used are :
+	1. keras
+	2. numpy
+	3. pandas
+	4. matplotlib.pyplot
+	5. sklearn
+	
+The RMSE (root mean square error) for the attached train_final.csv dataset in this model is equal to 3227854.94 
